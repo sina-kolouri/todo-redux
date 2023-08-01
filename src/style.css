@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(191, 227, 62);
+}
+
+.app-wrapper{
+  min-width: 340px;
+}

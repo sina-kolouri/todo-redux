@@ -1,0 +1,51 @@
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.red {
+  background-color: red;
+}
+
+.green,
+.red,
+.blue,
+.orange,
+.purple {
+    border-radius: 4px;
+    display: inline-block;
+    height: 13px;
+    width: 13px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: stretch;
+  height: 300px;
+}
+
+@media screen and (max-width:465.9px) {
+  .container {
+    font-size: 0.8em;
+  }
+}
+@media screen and (max-width:390px) {
+  .container {
+    font-size: 0.7em;
+  }
+}
