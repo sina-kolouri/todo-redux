@@ -1,3 +1,7 @@
+## To see the project online, click on this link :
+
+https://sina-kolouri.github.io/todo-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
